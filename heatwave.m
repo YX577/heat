@@ -23,10 +23,10 @@ function [hwCount, hwDays] = heatwave(tx, t0, minDur, isPlot)
 %   papers in your work: 
 %   Luo, M. & N.-C. Lau (2017) Heat waves in southern China: Synoptic 
 %       behavior, long-term change, and urbanization effects. Journal of 
-%       Climate, 30, 703–720, doi: 10.1175/JCLI-D-16-0269.1
+%       Climate, 30, 703–720, https://doi.org/10.1175/JCLI-D-16-0269.1
 %   Luo, M., & Lau, N.-C. (2018). Increasing heat stress in urban areas of 
 %       eastern China: Acceleration by urbanization. Geophysical Research 
-%       Letters, 45: 13060-13069, doi: 10.1029/2018GL080306
+%       Letters, 45: 13060-13069, https://doi.org/10.1029/2018GL080306
 %
 
 %

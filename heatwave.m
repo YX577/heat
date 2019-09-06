@@ -85,4 +85,4 @@ if isPlot
     set(gca, 'xlim', [1, length(tx)]);
     xlabel('Day');
     ylabel('Temperature');
-end
+end 
